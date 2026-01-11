@@ -37,7 +37,7 @@ The Excel dashboard provides insights through:
 ![Sales Dashboard](Dashboard.png)
 
 ---
-## 📊 Summary
+## 📊 Summary_report
 ![Summary_report](Summary_report.png)
 
 ## ▶ How to Run the Project
